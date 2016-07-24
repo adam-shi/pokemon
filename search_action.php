@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
 <body>
-
-Hello.
-
+<?php
+echo "Hello World!";
+?>
 </body>
 </html>
