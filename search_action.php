@@ -1,6 +1,6 @@
 <html>
 <body>
 Hello World<br>
-<?php echo $_GET["username"]; ?>
+<?php echo $_POST["username"]; ?>
 </body>
 </html>
