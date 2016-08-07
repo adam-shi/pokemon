@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
-<?php
-echo "Hello World!";
-?>
+Hello World<br>
+<?php echo $_GET["username"]; ?>
 </body>
 </html>
